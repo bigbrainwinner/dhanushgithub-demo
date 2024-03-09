@@ -1,2 +1,3 @@
 # dhanushgithub-demo
-this is my first repo
+this is my first repoistory
+autor - Dhanush J Chandran
